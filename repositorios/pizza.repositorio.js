@@ -1,6 +1,6 @@
 import { MongoClient, ObjectId } from "mongodb";
 
-const uri = "mongodb://root:diego2004@localhost:27018/?authSource=admin";
+const uri = "";
 
 const client = new MongoClient(uri);
 
