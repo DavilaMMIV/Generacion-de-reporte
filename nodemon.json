@@ -1,0 +1,3 @@
+{
+  "ignore": ["newman/*", "*.html"]
+}

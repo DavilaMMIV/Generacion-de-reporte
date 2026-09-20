@@ -1,0 +1,23 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "hola mundo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index,js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Diego Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "newman": "^6.2.2",
+    "newman-reporter-htmlextra": "^1.23.1"
+  }
+}
